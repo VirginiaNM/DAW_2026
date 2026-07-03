@@ -21,6 +21,8 @@ Actividad 2 y 3 - https://www.infobae.com/sociedad/policiales/2026/04/14/insolit
 
 Actividad 4 - https://www.infobae.com/america/mundo/2026/04/28/restos-en-cajas-de-zapatos-y-adn-mezclado-con-lodo-el-desgarrador-relato-de-la-madre-que-cedio-su-asiento-en-el-titan/
 
+Actividad 5 - https://www.lanacion.com.ar/tecnologia/usaba-chatgpt-16-horas-por-dia-creyo-que-era-mejor-que-einstein-y-penso-en-ser-papa-su-esposa-lo-nid14052026/
+
 👩‍💻 Autoría
 
 Virginia Martinez
