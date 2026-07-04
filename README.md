@@ -27,6 +27,8 @@ TP1 - Google Noticias como inspiración. https://news.google.com/
 <img width="1885" height="904" alt="Captura de pantalla 2026-07-03 144155" src="https://github.com/user-attachments/assets/d3733198-2476-4637-99c3-0bf7c2eb0f40" />
 https://virginianm.github.io/DAW_2026/TP1
 
+Actividad 9 - https://virginianm.github.io/DAW_2026/Clase9
+
 👩‍💻 Autoría
 
 Virginia Martinez
